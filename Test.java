@@ -8,7 +8,7 @@ public class Test {
 
 
         Scanner input = new Scanner(System.in);
-        System.out.println("Yaşınızı giriniz : ");
+        System.out.println("Dogum Yilinizi Giriniz : ");
         age = input.nextInt();
         age = age%12;
 
